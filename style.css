@@ -35,3 +35,12 @@
     posittion: absolute;
     width: 550px;
     animation: clouds-animation 20s infinite linear;
+}
+
+@keyframes pipe-animation
+ from {
+     right: -80px;
+ }
+    to {
+        right: 100%
+    }
